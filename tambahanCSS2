@@ -1,0 +1,11 @@
+margin-bottom: 5px;
+				padding: 15px 0;
+				}
+
+				.logo {
+				width: 100%;
+				height: auto;
+				background: #800000;
+				text-align: center;
+				color: #fff;
+				}
