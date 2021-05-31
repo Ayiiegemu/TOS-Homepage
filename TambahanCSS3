@@ -21,3 +21,16 @@
 				padding: 0;
 				list-style: none;
 				}
+				.navigasi ul{
+				padding: 0;
+				list-style: none;
+				display: inline-block;
+				margin: 0;
+				}
+				.navigasi li{
+				float: left;
+				margin: 0 10px;
+				}
+				</style>
+</body>
+</html>
