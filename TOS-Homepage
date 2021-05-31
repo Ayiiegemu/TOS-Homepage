@@ -52,3 +52,9 @@
 		<small>&copy; Copyright - Wisata Gorontalo 2021 | Alright reserved.</small>
 	</div>
 </footer>
+<style>
+body {
+				width: 960px;
+				margin: 30px auto;
+				}
+				
