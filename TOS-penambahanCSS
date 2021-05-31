@@ -1,0 +1,7 @@
+main {
+				display: flex;
+				}
+
+				.padding_this{
+				padding: 15px;
+				}
