@@ -1,0 +1,8 @@
+.logo,
+				.navigasi,
+				.konten,
+				.sidebar,
+				.footer {
+				margin-bottom: 5px;
+				padding: 15px 0;
+				}
